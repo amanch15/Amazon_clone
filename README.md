@@ -8,7 +8,6 @@ A responsive **Amazon homepage clone** built using only **HTML** and **CSS**. Th
 
 - ✅ HTML5
 - ✅ CSS3
-- ❌ No JavaScript used
 - 📱 Responsive Design
 
 ---
