@@ -1,3 +1,25 @@
-# Amazon_clone
+# 🛒 Amazon Clone (Frontend)
 
-A fully responsive Amazon Clone built using HTML & CSS. This project replicates the UI of Amazon, including the homepage, product listings, and navigation bar.
+A responsive **Amazon homepage clone** built using only **HTML** and **CSS**. This project recreates the UI of Amazon's homepage to practice frontend development and layout skills.
+
+---
+
+## 🧰 Tech Stack
+
+- ✅ HTML5
+- ✅ CSS3
+- ❌ No JavaScript used
+- 📱 Responsive Design
+
+---
+
+## 📂 Features
+
+- 🟦 Amazon-style header with logo, search bar, and navigation
+- 🛍️ Product sections styled similarly to Amazon categories
+- 🎯 Responsive layout for different screen sizes
+- 👩‍🎨 Clean and structured CSS
+
+---
+
+
